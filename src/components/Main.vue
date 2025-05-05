@@ -1,3 +1,4 @@
+
 <template>
 
   <!-- hero -->
@@ -197,7 +198,7 @@ export default {
       ],
       whatsappNumbers: [
       "60135133290", // Number 1
-      "601119133290"  // Number 3
+      "60143653290"  // Number 3
       ],
       currentNumberIndex: 0
     };
