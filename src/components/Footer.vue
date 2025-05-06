@@ -7,7 +7,7 @@
           <img src="/kawkawLogo.png" alt="Rotikaya Logo" class="img-fluid" style="max-width: 280px; padding-bottom: 20px;">
           <h5 class="text-uppercase fw-bold">Kaw Kaw Sdn Bhd</h5>
           <p>202101037810 (1438110-M)</p>
-          <p><i class="fas fa-phone"></i> Customer Service: +601351333290</p>
+          <p><i class="fas fa-phone"></i> Customer Service: +60135133290</p>
           <p><i class="fas fa-user-tie"></i> Human Resource: +60183688896</p>
           <p><i class="fas fa-envelope"></i> <a href="mailto:kaw2.roadtaxinsurance@gmail.com" class="text-white">kaw2.roadtaxinsurance@gmail.com</a></p>
         </div>
